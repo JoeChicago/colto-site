@@ -1,5 +1,7 @@
 # Colto — English, Spanish & Medical Dictionary
 
+[English](index.md) | [Español](index-es.md)
+
 Colto is a fast, modern vocabulary tool that combines English, Spanish, and Medical terminology into one unified dictionary. Designed for learners, professionals, and bilingual users, Colto delivers clear definitions without clutter — and works fully offline.
 
 ## Features
