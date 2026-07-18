@@ -1,6 +1,8 @@
 # Colto Privacy Policy
 
-**Last updated: [insert date]**
+[English](index.md) | [Español](index-es.md)
+
+**Last updated: 7/18/2026
 
 Colto is a fast, lightweight dictionary app that respects your privacy. This policy explains what information the app does — and does not — collect.
 
