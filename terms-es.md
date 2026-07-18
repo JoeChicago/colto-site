@@ -1,6 +1,8 @@
 # Términos de Uso de Colto
 
-**Última actualización: [insertar fecha]**
+[English](index.md) | [Español](index-es.md)
+
+**Última actualización: 7/18/2026
 
 Estos Términos de Uso regulan el uso de la aplicación Colto (“la Aplicación”). Al utilizar la Aplicación, aceptas estos términos.
 
