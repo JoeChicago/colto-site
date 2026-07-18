@@ -1,5 +1,7 @@
 # Colto — Diccionario de Inglés, Español y Terminología Médica
 
+[English](index.md) | [Español](index-es.md)
+
 Colto es una herramienta moderna y rápida que combina vocabulario en inglés, español y terminología médica en un solo diccionario. Diseñado para estudiantes, profesionales y usuarios bilingües, Colto ofrece definiciones claras y sin distracciones — y funciona completamente sin conexión.
 
 ## Funciones
