@@ -1,9 +1,3 @@
 title: Colto Dictionary
 description: A fast, modern English–Spanish–Medical dictionary that works offline.
 theme: cayman
-
-header_pages:
-  - index.md
-  - index-es.md
-  - privacy-policy.md
-  - terms.md
