@@ -1,6 +1,8 @@
 # Colto Terms of Use
 
-**Last updated: [insert date]**
+[English](index.md) | [Español](index-es.md)
+
+**Last updated: 7/18/2026
 
 These Terms of Use govern your use of the Colto application (“the App”). By using the App, you agree to these terms.
 
