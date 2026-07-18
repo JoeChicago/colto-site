@@ -1,6 +1,8 @@
 # Política de Privacidad de Colto
 
-**Última actualización: [insertar fecha]**
+[English](index.md) | [Español](index-es.md)
+
+**Última actualización: 7/18/2026
 
 Colto es una aplicación de diccionario rápida y ligera que respeta tu privacidad. Esta política explica qué información la aplicación recopila — y cuál no.
 
